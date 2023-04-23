@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @gpsunnyi
-- 👀 I’m interested in ...Coding
+- 👋 Hi, my name is Godspower. @gpsunnyi
 - 🌱 I’m currently learning ...C++/C#/Python/
 - 💞️ I’m looking to collaborate on ...anything really
 - 📫 How to reach me ...Linkedin @gpsunny
